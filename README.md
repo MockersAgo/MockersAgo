@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MockersAgo
 - 👀 I’m interested in developing a sustenaible way of living
 - 🌱 I’m currently learning cloud infrastructure
-- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me federicoagosteo@yahoo.it
 - ⚡ Fun fact: let's go skiing
 
